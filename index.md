@@ -16,3 +16,7 @@ print(cat)
 ```
 
 Get programming help at [Stack Overflow](https://stackoverflow.com/).
+
+[Custom foo description](#next-header)
+
+# Next Header
