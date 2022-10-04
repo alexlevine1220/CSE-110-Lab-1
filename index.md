@@ -17,6 +17,6 @@ print(cat)
 
 Get programming help at [Stack Overflow](https://stackoverflow.com/).
 
-[Custom foo description](#next-header)
+[Click Here to Go to the Bottom of the Page](#bottom)
 
-# Next Header
+# Bottom
