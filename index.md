@@ -19,8 +19,6 @@ Get programming help at [Stack Overflow](https://stackoverflow.com/).
 
 [Click Here to Go to the Bottom of the Page](#bottom)
 
-[Here's a Relative Link](blankpage.md)
-
 **Here's a List of Programming Languages**
 
 - Java
