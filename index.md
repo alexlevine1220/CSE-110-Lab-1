@@ -8,3 +8,9 @@
 My CSE professor wants told me that 
 
 > cats can code well.
+
+This prints cat in Python:
+
+```
+print(cat)
+```
